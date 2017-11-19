@@ -7,8 +7,8 @@ public class HelloWorld {
 
      System.out.println("Hello World, I'm khun");
      System.out.println("Rungaroon Rattanaphun");
-     System.out.println("Information System");
-     System.out.println("MT:RMUTSV");
+     System.out.println("Information System, RMUTSV");
+
 
 
 
