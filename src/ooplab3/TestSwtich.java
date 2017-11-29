@@ -14,7 +14,6 @@ public class TestSwtich {
             default:  System.out.print("Number 1-3 only");
 
 
-
         }//swicth
 
     }//main

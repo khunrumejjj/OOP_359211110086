@@ -22,8 +22,7 @@ public class CalGrade {
         else System.out.println("Your qrade is A");
 
 
-
-
+    }//for
     }//main
 
 }
