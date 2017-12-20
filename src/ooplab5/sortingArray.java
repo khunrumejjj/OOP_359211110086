@@ -1,5 +1,6 @@
 package ooplab5;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
@@ -27,6 +28,8 @@ public class sortingArray {
 //        Arrays.sort(number, Collections.reverseOrder());
 //        showData(number, number.length);
 //    }//Sorting data Desending
+
+
 
     private static void sortingData(int[] number) {
         System.out.print("Ascending order: ");
@@ -67,8 +70,6 @@ public class sortingArray {
         System.out.println("The average data in array:"+(total/length));
 
     }
-
-
 
 
     private static void inputData(int[] number, int length) {
