@@ -3,7 +3,7 @@ package ooplab2;
 public class TestVariable {
     public static void main(String[] args) {
                 //        Integer
-                                int i;
+        int i;
                i = 10;
                 System.out.println("i = "+i);
                 int j = 20;
@@ -13,7 +13,7 @@ public class TestVariable {
                 System.out.println("i/j= "+(i/j));
 
                 //        Double
-                                double v = 50.5;
+        double v = 50.5;
                 System.out.println("v = "+v);
 
                         i = (int) v;
@@ -25,9 +25,9 @@ public class TestVariable {
                 System.out.println(c);
 
                         //String
-                                String s = "Hello, world";
+        String s = "Hello, world";
                 System.out.println(s);
-                String name = "I'm SAM";
+                String name = "I'm khun";
                 System.out.println(s+" "+name);
                 String msg = s.concat(" "+name);
                 System.out.println(msg);
@@ -56,7 +56,7 @@ public class TestVariable {
 
 
 
-                                          }//main
+         }//main
 
 
 
