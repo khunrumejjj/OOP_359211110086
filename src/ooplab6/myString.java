@@ -34,8 +34,5 @@ public class myString {
         System.out.println(s3.length());
         System.out.println("*"+s3+"*");
         System.out.println("*"+s3.trim()+"*");
-
-
-
     }//main
 }//class

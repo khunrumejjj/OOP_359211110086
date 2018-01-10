@@ -26,5 +26,4 @@ public class Array2D {
     }//for i
 
     }//showArray
-
 }//class

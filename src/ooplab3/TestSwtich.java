@@ -12,9 +12,6 @@ public class TestSwtich {
             case 2:  System.out.print("Your entered 2");break;
             case 3:  System.out.print("Your entered 3");break;
             default:  System.out.print("Number 1-3 only");
-
-
         }//swicth
-
     }//main
 }//class

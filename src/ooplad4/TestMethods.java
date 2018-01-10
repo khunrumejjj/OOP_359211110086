@@ -24,8 +24,5 @@ public class TestMethods {
         //1
         int num = C(x,y);
         System.out.println(num);
-
     }//main
-
-
 }//class

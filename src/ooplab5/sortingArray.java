@@ -20,7 +20,6 @@ public class sortingArray {
         sortingData(number);
 //
 
-
     }//main
 
 //    private static void sortingDataDesending(int[] number) {

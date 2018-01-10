@@ -23,5 +23,4 @@ public class TestArrayList {
         list.set(1, "BABY");
         System.out.println(list);
     }//main
-
 }//class

@@ -16,9 +16,7 @@ public class myStringBuffer {
         buffer.delete(6, 8);
         System.out.println(buffer);
         pringBuffer(buffer);
-
     }//main
-
     private static void pringBuffer(StringBuffer buffer) {
     }
 }//class

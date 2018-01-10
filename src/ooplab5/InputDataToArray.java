@@ -3,7 +3,6 @@ package ooplab5;
 // 2. show data in array
 // 3. summation data in array
 // 4. average value in array
-
 import java.util.Scanner;
 
 public class InputDataToArray {
@@ -13,9 +12,7 @@ public class InputDataToArray {
 
       inputData(number,number.length);
         showData(number,number.length);
-
     }//main
-
     private static void showData(int[] number, int length) {
         double total = 0;
         for (int i = 0; i < length; i++) {
@@ -26,9 +23,6 @@ public class InputDataToArray {
         System.out.println("Total is in array " + total);
         System.out.println("The average data in array:" + (total / length));
     }
-
-
-
     private static void inputData(int[] number, int length) {
         Scanner scanner = new Scanner(System.in);
         for (int i=0;i<length;i++)
@@ -36,6 +30,5 @@ public class InputDataToArray {
             System.out.print("Enter an integer["+i+"]: ");
             number[i] = scanner.nextInt();
         }
-
     }//inputData
 }//class

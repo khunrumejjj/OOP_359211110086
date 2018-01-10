@@ -29,7 +29,5 @@ public class TestWhileLoop {
                 break;
             }
         }
-
     }//main
-
 }//class

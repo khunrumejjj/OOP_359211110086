@@ -19,10 +19,5 @@ public class OverLoadMethod {
         Summation();
         Summation(10, 10);
         Summation(5, 5, 5);
-
-
     }//main
-
-
-
 }//class

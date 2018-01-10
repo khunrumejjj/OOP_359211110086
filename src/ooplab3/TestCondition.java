@@ -22,7 +22,5 @@ public class TestCondition {
             System.out.println("x more than 30");
         else
             System.out.println("x equal 30");
-
-
     }//main
 }

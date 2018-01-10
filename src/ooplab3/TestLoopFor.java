@@ -10,17 +10,5 @@ public class TestLoopFor {
             System.out.println(i+" ");
 
         }//for
-
-
-
-
-
-
-
-
-
-
-
     }//main
-
 }// class

@@ -20,8 +20,6 @@ public class CalGrade {
         else if (score<69)System.out.println("Your qrade is C");
         else if (score<79)System.out.println("Your qrade is B");
         else System.out.println("Your qrade is A");
-
-
     }//for
     }//main
 

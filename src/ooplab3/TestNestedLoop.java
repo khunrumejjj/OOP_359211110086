@@ -16,7 +16,5 @@ public static void main(String[] args){
       }//j
 System.out.println();
 }//i
-
-
 }//main
 }//class

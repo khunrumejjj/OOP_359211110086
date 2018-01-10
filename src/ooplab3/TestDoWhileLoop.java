@@ -28,8 +28,5 @@ public class TestDoWhileLoop {
               break;
           }
       } while (input !=pin);
-
-
-
     }//main
 }//class
