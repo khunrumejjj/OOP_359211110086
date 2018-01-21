@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1a79c8-da17-4ff9-94fc-a83b20fa6262" name="Default" comment="Edit_TestMidTerm3_2">
+    <list default="true" id="df1a79c8-da17-4ff9-94fc-a83b20fa6262" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -90,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMidTerm3_2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestMidTerm3_2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MidTerm2_2560/TestMidTerm3_2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -100,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestMidTerm3_1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestMidTerm3_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MidTerm2_2560/TestMidTerm3_1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -234,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMidTerm3_1">
+  <component name="RunManager" selected="Application.TestMidTerm3_2">
     <configuration name="TestMidTerm3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -420,8 +420,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestMidTerm3_1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestMidTerm3_2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestMidTerm3_2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestMidTerm3_1" />
         <item index="2" class="java.lang.String" itemvalue="Application.test1" />
         <item index="3" class="java.lang.String" itemvalue="Application.test" />
         <item index="4" class="java.lang.String" itemvalue="Application.TestVariable" />
@@ -607,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516533013396</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="latest_TestMidTerm3_1">
+      <created>1516534882506</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1516534882507</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -668,7 +675,8 @@
     <MESSAGE value="TestMidTerm3_2" />
     <MESSAGE value="TestMidTerm3_1" />
     <MESSAGE value="Edit_TestMidTerm3_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit_TestMidTerm3_1" />
+    <MESSAGE value="latest_TestMidTerm3_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest_TestMidTerm3_1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1028,14 +1036,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MidTerm/TestMidTerm1.java" />
-    <entry file="file://$PROJECT_DIR$/src/MidTerm2_2560/TestMidTerm3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MidTerm2_2560/TestMidTerm3_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1043,6 +1043,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MidTerm2_2560/TestMidTerm3_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
