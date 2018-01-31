@@ -24,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -71,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/PetApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -770,7 +770,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517372429427</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Pet">
+      <created>1517372446103</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1517372446103</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -809,7 +816,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array2D" />
     <MESSAGE value="TestArrayList" />
     <MESSAGE value="test20122560" />
     <MESSAGE value="myString" />
@@ -834,7 +840,8 @@
     <MESSAGE value="cat" />
     <MESSAGE value="CatApp" />
     <MESSAGE value="Dog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dog" />
+    <MESSAGE value="Pet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1230,14 +1237,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/PetApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1284,6 +1283,14 @@
             <element signature="e#684#685#0" expanded="true" />
             <element signature="e#714#715#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/PetApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
