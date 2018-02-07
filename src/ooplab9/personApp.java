@@ -11,7 +11,9 @@ public class personApp {
         job job = new job("sales",15000);
         System.out.println(job.toString());
 
-
+        person.getJob().setSalary(30000);
+               System.out.println("Name: "+person.getName()+
+                       " Salary: "+person.getJob().getSalary());
 
     }//main
 }//class
